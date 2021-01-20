@@ -1,0 +1,17 @@
+html css bootstrap3 templates:
+	https://propeller.in/frameworks/open-source/
+
+
+html css bootstrap latest templates:
+	https://www.creative-tim.com/bootstrap-themes?page=6
+
+
+other template urls:
+	
+	https://getbootstrap.com/docs/4.0/examples/
+	
+	https://startbootstrap.com/templates
+
+	https://mobirise.com/bootstrap-template/bootstrap-starter-template/
+
+	www.frontendmentor.io
